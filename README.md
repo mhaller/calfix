@@ -11,3 +11,7 @@ such as ownCloud (http://ownCloud.org) and can be synchronized flawlessly
 with CalDAV clients such as Apple iCal.     
 
 License is GPL version 3. See also LICENSE
+
+Use 
+	easy_install icalendar
+in order to install the iCalendar Python module (https://pypi.python.org/pypi/icalendar).
